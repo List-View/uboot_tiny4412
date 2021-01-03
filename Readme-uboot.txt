@@ -89,3 +89,4 @@ b) 如果是使用S700，则需要在uboot上设置kernel命令行参数:
    saveenv
    然后重启Tiny4412即可。
 
+来源:友善之臂 tiny-4412
